@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Simple is better than complex.
+Simple is better than complex
 
 Please ensure your pull request adheres to the following guidelines:
 
