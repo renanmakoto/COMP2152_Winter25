@@ -3,19 +3,19 @@
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
 #### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
-
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
-
 ## Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
+![01_fork](https://github.com/user-attachments/assets/786e150a-98c7-489d-a2db-57f55a688b8f)
+
 ## Clone the repository
-
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
-
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the `Code` button, then click the _copy to clipboard_ icon.
+
+![02_code](https://github.com/user-attachments/assets/dfbdb862-b9b2-464c-baa8-eb86f55b8410)
+
+<img align="right" width="300" src="https://github.com/user-attachments/assets/d335f2f8-39b6-4aa9-8fe4-293c41299e95" alt="copy URL" />
 
 Open a terminal and run the following git command:
 
@@ -25,7 +25,7 @@ git clone "url you just copied"
 
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<!--img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" /-->
 
 For example:
 
@@ -109,6 +109,8 @@ replacing `your-branch-name` with the name of the branch you created earlier.
   origin	https://github.com/your-username/your_repo.git (push)
   ```
   
+  <img align="right" width="300" src="https://github.com/user-attachments/assets/02f8aabd-4d38-4cf3-87d6-0a56794855cd" alt="copy URL" />
+  
   Then you will change it using this command:
   ```bash
   git remote set-url origin git@github.com:your-username/your_repo.git
@@ -116,5 +118,4 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 
   The exact url (after `origin`) can be obtained on your GitHub repo, similar to the steps taken when originally [cloning the repo](#clone-the-repository).
   Only difference is, once you have clicked on the `Code` button, you should switch to the `SSH` tab, and click the _copy to clipboard_ icon there.
-
 </details>
