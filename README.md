@@ -43,16 +43,28 @@ Change to the repository directory on your computer (if you are not already ther
 cd first-contributions
 ```
 
-Now create a branch using the `git checkout` command:
+Now, create a branch using the `git branch` command:
 
 ```bash
-git checkout -b your-new-branch-name
+git branch your-new-branch-name
 ```
 
 For example:
 
 ```bash
-git checkout -b add-alonzo-church
+git branch add-alonzo-church
+```
+
+Then, switch to this new branch with the `git checkout` command:
+
+```bash
+git checkout your-new-branch-name
+```
+
+For example:
+
+```bash
+git checkout add-alonzo-church
 ```
 
 ## Make necessary changes and commit those changes
