@@ -308,6 +308,7 @@
 - [Stefano Fratello](https://github.com/sterik000)
 - [Jordan Atkins](https://github.com/Atkinss1)
 - [Sabittwa Banerjee](https://github.com/strangely-true)
+Renan
 - [Raunit Arya](https://github.com/RaunitArya)
 - [Christopher Faris](https://github.com/chrisF943)
 - [Wiktor Kycia](https://github.com/wiktorKycia)
